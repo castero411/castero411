@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadhesham&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhesham&theme=tokyonight" width="47%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">

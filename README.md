@@ -2,7 +2,9 @@
 <h3 align = "center">  I'm Ahmad Hesham </h3>
 <h3 align="center">Flutter Engineer / UI/UX enthusiast from Egypt 🇪🇬</h3>
 
+<div align ="center">
 <img align="center" alt="Coding" height = "300"  src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybTd5d2l0eXJnMmhmd292NW45c2NueHBzczFwOWgxZTE5OG1rZHJwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
+</div>
 
 ###
 
